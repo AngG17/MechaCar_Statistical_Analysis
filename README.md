@@ -59,3 +59,18 @@ Lot 3 T-test:
 
 ## Study Design: MechaCar vs Competition
 
+What metric or metrics are you going to test?
+
+- Carrying capacity - which vehicle is able to carry the most items and people?
+
+What is the null hypothesis or alternative hypothesis?
+
+- H<sub>0</sub>: The carrying capacity of a MechaCar prototype is similar to a competitor's carrying capacity.
+
+- H<sub>a</sub>: The carrying capacity of a MechaCar prototype is statistically above or below the carrying capacity of a competitor car.
+
+What statistical test would you use to test the hypothesis? And why?
+
+
+
+What data is needed to run the statistical test?
