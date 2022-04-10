@@ -59,6 +59,8 @@ Lot 3 T-test:
 
 ## Study Design: MechaCar vs Competition
 
+During my search for our family's next vehicle, we took into consideration how much cargo space there was in the back as we have active children who's sports equipment takes up a lot of space.  This is probably important to a lot of people when looking for a new vehicle.  
+
 What metric or metrics are you going to test?
 
 - Carrying capacity - which vehicle is able to carry the most items and people?
@@ -71,6 +73,8 @@ What is the null hypothesis or alternative hypothesis?
 
 What statistical test would you use to test the hypothesis? And why?
 
-
+- Two sample T-test.  This test will determine if the means of two samples are statistically different.
 
 What data is needed to run the statistical test?
+
+- Carrying capacity of all MechaCar prototypes and carrying capacity of all competitor vehicles.
